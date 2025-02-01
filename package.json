@@ -36,7 +36,7 @@
         "bip39": "3.0.2",
         "bootstrap": "4.5.0",
         "bootstrap-vue": "2.15.0",
-        "core-js": "3.4.4",
+        "core-js": "3.40.0",
         "create-hash": "1.2.0",
         "crypto-js": "4.1.1",
         "csv-generate": "4.2.1",
